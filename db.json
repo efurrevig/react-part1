@@ -3,7 +3,7 @@
     {
       "id": 1,
       "content": "HTML is easy",
-      "important": false
+      "important": true
     },
     {
       "id": 2,
@@ -29,6 +29,16 @@
       "content": "Post test three",
       "important": false,
       "id": 6
+    },
+    {
+      "content": "React kinda cool",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "test",
+      "important": true,
+      "id": 8
     }
   ]
 }
