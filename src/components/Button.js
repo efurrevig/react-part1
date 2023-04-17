@@ -1,9 +1,9 @@
-const Button = ({ text, onClick }) => {
+const Button = ({ onClick, label }) => {
     return (
         <button onClick={onClick}>
-        {text}
+        {label}
         </button>
-    );
+    )
 }
 
-export default Button;
+export default Button
